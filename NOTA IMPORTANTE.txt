@@ -1,0 +1,3 @@
+En el laptop que estoy desarrollando la evaluacion no cuento con camara web ni microfono
+la pagina de experiencia.html tiene referencia a un video y un audio online para demostrar conocimiento
+en fundametos HTML de video y audio
